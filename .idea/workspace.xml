@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92eb26e8-9d5c-4f47-a181-1ab3fe9a4c70" name="变更" comment="Git">
+    <list default="true" id="92eb26e8-9d5c-4f47-a181-1ab3fe9a4c70" name="变更" comment="Git,第二次修改了">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itcast/reggie/utils/git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itcast/reggie/utils/git.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hot-fix" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,10 +114,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.ReggieApplication" />
-        <item itemvalue="JavaScript 调试.login.html" />
-        <item itemvalue="JavaScript 调试.upload.html" />
-        <item itemvalue="JavaScript 调试.list.html" />
         <item itemvalue="JUnit.Test1.test1" />
+        <item itemvalue="JavaScript 调试.upload.html" />
+        <item itemvalue="JavaScript 调试.login.html" />
+        <item itemvalue="JavaScript 调试.list.html" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,7 @@
       <workItem from="1678012800159" duration="4861000" />
       <workItem from="1678018612867" duration="1320000" />
       <workItem from="1678067718981" duration="103000" />
-      <workItem from="1678079574030" duration="1925000" />
+      <workItem from="1678079574030" duration="2223000" />
     </task>
     <task id="LOCAL-00001" summary="这是瑞吉外卖项目">
       <created>1678016046149</created>
@@ -193,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678085451761</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Git,修改了">
+      <created>1678085503244</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678085503244</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Git,第二次修改了">
+      <created>1678085547154</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678085547154</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +226,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是瑞吉外卖项目" />
     <MESSAGE value="Git" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git" />
+    <MESSAGE value="Git,修改了" />
+    <MESSAGE value="Git,第二次修改了" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git,第二次修改了" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
