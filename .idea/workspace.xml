@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92eb26e8-9d5c-4f47-a181-1ab3fe9a4c70" name="变更" comment="这是瑞吉外卖项目">
+    <list default="true" id="92eb26e8-9d5c-4f47-a181-1ab3fe9a4c70" name="变更" comment="Git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itcast/reggie/utils/git.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itcast/reggie/utils/git.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,6 +149,7 @@
       <workItem from="1678012800159" duration="4861000" />
       <workItem from="1678018612867" duration="1320000" />
       <workItem from="1678067718981" duration="103000" />
+      <workItem from="1678079574030" duration="1925000" />
     </task>
     <task id="LOCAL-00001" summary="这是瑞吉外卖项目">
       <created>1678016046149</created>
@@ -170,7 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678018707063</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="这是瑞吉外卖项目">
+      <created>1678079743365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678079743365</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Git">
+      <created>1678085447539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678085447539</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Git">
+      <created>1678085451761</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678085451761</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +212,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这是瑞吉外卖项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="这是瑞吉外卖项目" />
+    <MESSAGE value="Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
